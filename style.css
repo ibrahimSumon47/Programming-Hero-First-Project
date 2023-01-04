@@ -5,3 +5,10 @@ label{
 input{
     margin-right: 5px;
 }
+td, table, th{
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 10px;
+    color: whitesmoke;
+    background-color: black;
+}
